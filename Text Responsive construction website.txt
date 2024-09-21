@@ -8,19 +8,16 @@
 
 ========== HOME ==========
 .home__title
-Create The <br> 
-Constructions <br> 
-You Want Here
+
 
 .home__description
-We provide the best home design, construction and 
-maintenance services for you and your family.
+
 
 .button
-Our Services
+
 
 .button__link
-View Projects
+
 
 .home__info-title .home__info-description
 10+
