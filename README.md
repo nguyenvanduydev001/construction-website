@@ -1,9 +1,17 @@
 # Responsive Construction Website
 
-- Responsive Construction Website Design Using HTML CSS And JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+A responsive construction website developed using HTML, CSS, and JavaScript, providing a smooth and efficient user experience across all devices. The design features a modern, intuitive interface with scroll animations, making it visually appealing and interactive.
 
-![preview img](/preview.png)
+## Key Features
+
+- **Fully Responsive Design**: Optimized for both mobile and desktop, ensuring a seamless and consistent user experience.
+- **Scroll Animations**: Eye-catching animations that trigger as you scroll through different sections.
+- **Smooth Scrolling**: Effortless navigation between sections with smooth scrolling effects.
+- **Mobile-First Approach**: Developed using the mobile-first methodology, ensuring the best performance on smaller screens before scaling up to larger devices.
+- **Cross-Device Compatibility**: Fully compatible with all mobile devices, offering a clean and user-friendly interface on every screen size.
+
+## Preview
+
+![Website Preview](./preview.png)
+
+[Live Demo](https://webiste-construction.netlify.app/)
